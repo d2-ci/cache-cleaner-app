@@ -1,0 +1,46 @@
+{
+  "name": "cache-cleaner-app",
+  "version": "29.0.0",
+  "description": "Cache Cleaner app for DHIS2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prebuild": "(rm -r build && mkdir build) || mkdir build",
+    "build": "npm run convert-po && webpack && cp -r ./i18n ./build/i18n && cp -r ./views ./build/views && cp -r ./styles ./build/styles && cp ./index.html ./build/index.html && cp ./package.json ./build/package.json",
+    "start": "npm run convert-po && webpack-dev-server",
+    "convert-po": "node po-converter.js",
+    "extract-pot": "node pot-extractor.js",
+    "refresh-translations-template": "npm run extract-pot -- -o translations.pot && git add ./i18n/translations.pot",
+    "deploy": "deploy-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhis2/cache-cleaner-app.git"
+  },
+  "keywords": [
+    "DHIS2"
+  ],
+  "pre-commit": [
+    "refresh-translations-template"
+  ],
+  "author": "Abyot Asalefew Gizaw",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/dhis2/cache-cleaner-app/issues"
+  },
+  "homepage": "https://github.com/dhis2/cache-cleaner-app#readme",
+  "devDependencies": {
+    "@dhis2/deploy-build": "^1.0.4",
+    "babel-core": "^6.8.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "css-loader": "^0.23.1",
+    "i18next-conv": "^5.0.0",
+    "i18next-parser": "^0.12.0",
+    "recursive-readdir": "^2.2.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
