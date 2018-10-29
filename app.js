@@ -320,7 +320,7 @@
 	            }
 	        }
 	
-	        var idxDBs = ['dhis2ou', 'dhis2', 'dhis2tc', 'dhis2ec', 'dhis2de', 'dhis2er'];
+	        var idxDBs = ['dhis2ou', 'dhis2', 'dhis2tc', 'dhis2ec', 'dhis2de', 'dhis2er', 'dhis2ca'];
 	        angular.forEach(idxDBs, function (db) {
 	            idbStorageService.dbExists(db).then(function (res) {
 	                if (res) {
