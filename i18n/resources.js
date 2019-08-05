@@ -127,6 +127,19 @@ const i18nextResources = {
       "Proceed": "Prosseguir"
     }
   },
+  "ru": {
+    "translation": {
+      "DHIS 2 browser cache cleaner": "Очистить кэш браузера DHIS 2",
+      "Session storage": "Хранение сессии",
+      "Local storage": "Локальное хранение",
+      "indexedDB": "индексированнаяБД",
+      "Clear": "Очистить",
+      "Clearing cache": "Очистка кеша",
+      "Are you sure you want to proceed with the cleaning?": "Вы уверены, что хотите сделать уборку?",
+      "Cancel": "Отменить",
+      "Proceed": "Продолжать"
+    }
+  },
   "sv": {
     "translation": {
       "Home": "Hem",
