@@ -1,12 +1,6 @@
 {
   "name": "cache-cleaner-app",
-  "version": "29.0.3",
   "description": "Cache Cleaner app for DHIS2",
-  "main": "index.js",
-  "keywords": [
-    "DHIS2"
-  ],
-  "author": "Abyot Asalefew Gizaw",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/dhis2/cache-cleaner-app#readme"
+  "version": "29.0.3"
 }
