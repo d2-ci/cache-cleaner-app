@@ -90,7 +90,8 @@ const i18nextResources = {
   "prs": {
     "translation": {
       "Clear": "پاک کردن",
-      "Cancel": "لغو کردن"
+      "Cancel": "لغو کردن",
+      "Proceed": "ادامه دادن"
     }
   },
   "ps": {
