@@ -1,43 +1,42 @@
 # Translators:
 # phil_dhis2, 2019
-# Viktor Varland <viktor@dhis2.org>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2017-11-14T09:57:02.915Z\n"
 "PO-Revision-Date: 2019-09-01 18:42+0000\n"
-"Last-Translator: Viktor Varland <viktor@dhis2.org>, 2019\n"
-"Language-Team: French (https://www.transifex.com/hisp-uio/teams/100509/fr/)\n"
+"Last-Translator: phil_dhis2, 2019\n"
+"Language-Team: Ukrainian (https://www.transifex.com/hisp-uio/teams/100509/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
 msgid "DHIS 2 browser cache cleaner"
-msgstr "Videur du cache navigateur DHIS2"
+msgstr ""
 
 msgid "Session storage"
-msgstr "Stockate de session"
+msgstr ""
 
 msgid "Local storage"
-msgstr "Stockage local"
+msgstr ""
 
 msgid "indexedDB"
 msgstr ""
 
 msgid "Clear"
-msgstr "Effacer"
+msgstr "Очистити"
 
 msgid "Clearing cache"
-msgstr "Vidange du cache"
+msgstr ""
 
 msgid "Are you sure you want to proceed with the cleaning?"
-msgstr "Êtes-vous sûr de vouloir procéder au nettoyage ?"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Annuler"
+msgstr "Скасувати"
 
 msgid "Proceed"
-msgstr "Continuer"
+msgstr ""
