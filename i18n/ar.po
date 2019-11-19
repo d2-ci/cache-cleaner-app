@@ -25,7 +25,7 @@ msgid "Local storage"
 msgstr "التخزين المحلي"
 
 msgid "indexedDB"
-msgstr ""
+msgstr "indexedDB"
 
 msgid "Clear"
 msgstr "مسح"
