@@ -843,7 +843,8 @@
 	  "prs": {
 	    "translation": {
 	      "Clear": "پاک کردن",
-	      "Cancel": "انصراف"
+	      "Cancel": "انصراف",
+	      "Proceed": "ادامه دادن"
 	    }
 	  },
 	  "ps": {
