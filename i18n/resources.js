@@ -86,6 +86,19 @@ const i18nextResources = {
       "Cancel": "ပယ်ဖျက်သည်"
     }
   },
+  "nb": {
+    "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS2 nettleserbufferrens",
+      "Session storage": "Øktlager",
+      "Local storage": "Lokal lagring",
+      "indexedDB": "indeksertDB",
+      "Clear": "Fjern",
+      "Clearing cache": "Tømmer buffer",
+      "Are you sure you want to proceed with the cleaning?": "Er du sikker på at du vil fortsette med rensingen?",
+      "Cancel": "Avbryt",
+      "Proceed": "Fortsett"
+    }
+  },
   "prs": {
     "translation": {
       "Clear": "پاک کردن",
@@ -187,6 +200,12 @@ const i18nextResources = {
       "Clear": "清除",
       "Cancel": "取消",
       "Proceed": "处理"
+    }
+  },
+  "zh_CN": {
+    "translation": {
+      "Clear": "清除",
+      "Cancel": "取消"
     }
   }
 }; export default i18nextResources;
