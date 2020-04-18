@@ -4,6 +4,7 @@ const i18nextResources = {
       "DHIS 2 browser cache cleaner": "منظف ذاكرة التخزين المؤقت لمتصفح DHIS2",
       "Session storage": "تخزين الجلسة",
       "Local storage": "التخزين المحلي",
+      "indexedDB": "قاعدة البيانات المفهرسة",
       "Clear": "مسح",
       "Clearing cache": "جار تنظيف ذاكرة التخزين المؤقت",
       "Are you sure you want to proceed with the cleaning?": "هل تريد بالتأكيد المتابعة في التنظيف؟",
@@ -197,7 +198,13 @@ const i18nextResources = {
   },
   "zh": {
     "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS 2浏览器缓存清除器",
+      "Session storage": "会话存储",
+      "Local storage": "本地存储",
+      "indexedDB": "indexedDB",
       "Clear": "清除",
+      "Clearing cache": "清除缓存",
+      "Are you sure you want to proceed with the cleaning?": "你确信要继续清除？",
       "Cancel": "取消",
       "Proceed": "处理"
     }
