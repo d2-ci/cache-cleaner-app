@@ -12,6 +12,12 @@ const i18nextResources = {
       "Proceed": "متابعة"
     }
   },
+  "ar_IQ": {
+    "translation": {
+      "Clear": "مسح",
+      "Cancel": "إلغاء"
+    }
+  },
   "ckb": {
     "translation": {
       "DHIS 2 browser cache cleaner": "باكردنةوةي زيادةي براوسيري دي اج اي اس 2",
