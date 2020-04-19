@@ -4,11 +4,18 @@ const i18nextResources = {
       "DHIS 2 browser cache cleaner": "منظف ذاكرة التخزين المؤقت لمتصفح DHIS2",
       "Session storage": "تخزين الجلسة",
       "Local storage": "التخزين المحلي",
+      "indexedDB": "قاعدة البيانات المفهرسة",
       "Clear": "مسح",
       "Clearing cache": "جار تنظيف ذاكرة التخزين المؤقت",
       "Are you sure you want to proceed with the cleaning?": "هل تريد بالتأكيد المتابعة في التنظيف؟",
       "Cancel": "إلغاء",
       "Proceed": "متابعة"
+    }
+  },
+  "ar_IQ": {
+    "translation": {
+      "Clear": "مسح",
+      "Cancel": "إلغاء"
     }
   },
   "ckb": {
@@ -84,6 +91,19 @@ const i18nextResources = {
     "translation": {
       "Clear": "ရှင်းလင်းသည်",
       "Cancel": "ပယ်ဖျက်သည်"
+    }
+  },
+  "nb": {
+    "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS2 nettleserbufferrens",
+      "Session storage": "Øktlager",
+      "Local storage": "Lokal lagring",
+      "indexedDB": "indeksertDB",
+      "Clear": "Fjern",
+      "Clearing cache": "Tømmer buffer",
+      "Are you sure you want to proceed with the cleaning?": "Er du sikker på at du vil fortsette med rensingen?",
+      "Cancel": "Avbryt",
+      "Proceed": "Fortsett"
     }
   },
   "prs": {
@@ -184,9 +204,21 @@ const i18nextResources = {
   },
   "zh": {
     "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS 2浏览器缓存清除器",
+      "Session storage": "会话存储",
+      "Local storage": "本地存储",
+      "indexedDB": "indexedDB",
       "Clear": "清除",
+      "Clearing cache": "清除缓存",
+      "Are you sure you want to proceed with the cleaning?": "你确信要继续清除？",
       "Cancel": "取消",
       "Proceed": "处理"
+    }
+  },
+  "zh_CN": {
+    "translation": {
+      "Clear": "清除",
+      "Cancel": "取消"
     }
   }
 }; export default i18nextResources;
