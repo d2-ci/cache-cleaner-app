@@ -4,11 +4,18 @@ const i18nextResources = {
       "DHIS 2 browser cache cleaner": "منظف ذاكرة التخزين المؤقت لمتصفح DHIS2",
       "Session storage": "تخزين الجلسة",
       "Local storage": "التخزين المحلي",
+      "indexedDB": "indexedDB",
       "Clear": "مسح",
       "Clearing cache": "جار تنظيف ذاكرة التخزين المؤقت",
       "Are you sure you want to proceed with the cleaning?": "هل تريد بالتأكيد المتابعة في التنظيف؟",
       "Cancel": "إلغاء",
       "Proceed": "متابعة"
+    }
+  },
+  "ar_IQ": {
+    "translation": {
+      "Clear": "مسح",
+      "Cancel": "إلغاء"
     }
   },
   "ckb": {
@@ -50,17 +57,18 @@ const i18nextResources = {
       "Clearing cache": "Vidange du cache",
       "Are you sure you want to proceed with the cleaning?": "Êtes-vous sûr de vouloir procéder au nettoyage ?",
       "Cancel": "Annuler",
-      "Proceed": "Poursuivre"
+      "Proceed": "Continuer"
     }
   },
   "id": {
     "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS 2 browser cache cleaner",
       "Session storage": "Session Storage",
       "Local storage": "Local Storage",
       "Clear": "Hapus",
       "Clearing cache": "Bersihkan cache",
       "Are you sure you want to proceed with the cleaning?": "Apakah anda yakin untuk melanjutkan proses cleaning?",
-      "Cancel": "Batal",
+      "Cancel": "batal",
       "Proceed": "Lanjutkan"
     }
   },
@@ -73,23 +81,36 @@ const i18nextResources = {
   "lo": {
     "translation": {
       "DHIS 2 browser cache cleaner": "ລ້າງຂໍ້ມູນຂອງ DHIS 2 ໃນເຄດລອງບາວເຊີ້",
-      "Clear": "ລ້າງ",
+      "Clear": "ລຶບ",
       "Clearing cache": "ລ້າງຂໍ້ມູນ",
       "Are you sure you want to proceed with the cleaning?": "ເຈົ້າຕ້ອງການລ້າງຂໍ້ມູນນີ້ອອກຈາກບາວເຊີ້ແທ້ບໍ?",
-      "Cancel": "ຍົກເລີກ",
+      "Cancel": "Cancel",
       "Proceed": "ດຳເນີນ"
     }
   },
   "my": {
     "translation": {
       "Clear": "ရှင်းလင်းသည်",
-      "Cancel": "ဆက်မလုပ်တော့ပါ။"
+      "Cancel": "ပယ်ဖျက်သည်"
+    }
+  },
+  "nb": {
+    "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS2 nettleserbufferrens",
+      "Session storage": "Øktlager",
+      "Local storage": "Lokal lagring",
+      "indexedDB": "indeksertDB",
+      "Clear": "Fjern",
+      "Clearing cache": "Tømmer buffer",
+      "Are you sure you want to proceed with the cleaning?": "Er du sikker på at du vil fortsette med rensingen?",
+      "Cancel": "Avbryt",
+      "Proceed": "Fortsett"
     }
   },
   "prs": {
     "translation": {
       "Clear": "پاک کردن",
-      "Cancel": "لغو کردن",
+      "Cancel": "انصراف",
       "Proceed": "ادامه دادن"
     }
   },
@@ -101,7 +122,7 @@ const i18nextResources = {
       "Clear": "پاک یې کړئ",
       "Clearing cache": "ساتنځای د پاکولو په حال کې دی",
       "Are you sure you want to proceed with the cleaning?": "آیا د پاکولو بهیر ته د دوام ورکولو په برخه کې ډاډه یاست؟",
-      "Cancel": "پاک یې کړئ",
+      "Cancel": "رد یې کړئ [ ژباړه ـ ردول ]",
       "Proceed": "دوام ورکول"
     }
   },
@@ -133,9 +154,9 @@ const i18nextResources = {
   "sv": {
     "translation": {
       "DHIS 2 browser cache cleaner": "DHIS2 webbläsare cache rengörare",
-      "Clear": "Ta bort",
+      "Clear": "Klar",
       "Clearing cache": "Rensa cacheminnet",
-      "Cancel": "Annulera",
+      "Cancel": "Avbryt",
       "Proceed": "Fortsätta"
     }
   },
@@ -163,10 +184,10 @@ const i18nextResources = {
       "Session storage": "سیشن اسٹوریج",
       "Local storage": "مقامی ذخیرہ",
       "indexedDB": "انڈیکس شدہ ڈی بی",
-      "Clear": "واضح کریں",
+      "Clear": "کلیئر",
       "Clearing cache": "صاف کرنے کیشے",
       "Are you sure you want to proceed with the cleaning?": "کیا آپ واقعی صفائی کے ساتھ آگے بڑھنا چاہتے ہیں؟",
-      "Cancel": "منسوخ کریں",
+      "Cancel": "منسوخ",
       "Proceed": "آگے بڑھو"
     }
   },
@@ -179,14 +200,26 @@ const i18nextResources = {
       "Clearing cache": "Đang xóa...",
       "Are you sure you want to proceed with the cleaning?": "Bạn có chắc chắn muốn thực thi việc xóa dữ liệu cục bộ?",
       "Cancel": "Hủy",
-      "Proceed": "Thực hiện"
+      "Proceed": "Tiếp tục"
     }
   },
   "zh": {
     "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS 2浏览器缓存清除器",
+      "Session storage": "会话存储",
+      "Local storage": "本地存储",
+      "indexedDB": "indexedDB",
       "Clear": "清除",
+      "Clearing cache": "清除缓存",
+      "Are you sure you want to proceed with the cleaning?": "你确信要继续清除？",
       "Cancel": "取消",
       "Proceed": "处理"
+    }
+  },
+  "zh_CN": {
+    "translation": {
+      "Clear": "清除",
+      "Cancel": "取消"
     }
   }
 }; export default i18nextResources;
