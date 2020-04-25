@@ -218,7 +218,8 @@ const i18nextResources = {
   "zh_CN": {
     "translation": {
       "Clear": "清除",
-      "Cancel": "取消"
+      "Cancel": "取消",
+      "Proceed": "处理"
     }
   }
 }; export default i18nextResources;
