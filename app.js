@@ -971,7 +971,8 @@
 	  "zh_CN": {
 	    "translation": {
 	      "Clear": "清除",
-	      "Cancel": "取消"
+	      "Cancel": "取消",
+	      "Proceed": "处理"
 	    }
 	  }
 	};exports.default = i18nextResources;
