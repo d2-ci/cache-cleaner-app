@@ -813,6 +813,7 @@
 	  },
 	  "id": {
 	    "translation": {
+	      "DHIS 2 browser cache cleaner": "DHIS 2 browser cache cleaner",
 	      "Session storage": "Session Storage",
 	      "Local storage": "Local Storage",
 	      "Clear": "Hapus",
