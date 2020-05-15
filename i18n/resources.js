@@ -4,7 +4,7 @@ const i18nextResources = {
       "DHIS 2 browser cache cleaner": "منظف ذاكرة التخزين المؤقت لمتصفح DHIS2",
       "Session storage": "تخزين الجلسة",
       "Local storage": "التخزين المحلي",
-      "indexedDB": "indexedDB",
+      "indexedDB": "قاعدة البيانات المفهرسة",
       "Clear": "مسح",
       "Clearing cache": "جار تنظيف ذاكرة التخزين المؤقت",
       "Are you sure you want to proceed with the cleaning?": "هل تريد بالتأكيد المتابعة في التنظيف؟",
