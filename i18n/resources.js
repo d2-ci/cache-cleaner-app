@@ -65,6 +65,7 @@ const i18nextResources = {
       "DHIS 2 browser cache cleaner": "DHIS 2 browser cache cleaner",
       "Session storage": "Session Storage",
       "Local storage": "Local Storage",
+      "indexedDB": "indexedDB",
       "Clear": "Hapus",
       "Clearing cache": "Bersihkan cache",
       "Are you sure you want to proceed with the cleaning?": "Apakah anda yakin untuk melanjutkan proses cleaning?",
