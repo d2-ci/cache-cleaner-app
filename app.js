@@ -943,6 +943,12 @@
 	      "Proceed": "آگے بڑھو"
 	    }
 	  },
+	  "uz_Cyrl": {
+	    "translation": {
+	      "Clear": "Аниқ",
+	      "Cancel": "Бекор қилиш"
+	    }
+	  },
 	  "vi": {
 	    "translation": {
 	      "DHIS 2 browser cache cleaner": "Trình xóa dữ liệu cục bộ trong DHIS 2",
