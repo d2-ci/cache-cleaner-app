@@ -948,7 +948,8 @@
 	  "uz_Cyrl": {
 	    "translation": {
 	      "Clear": "Аниқ",
-	      "Cancel": "Бекор қилиш"
+	      "Cancel": "Бекор қилиш",
+	      "Proceed": "Давом этинг"
 	    }
 	  },
 	  "vi": {
