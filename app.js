@@ -943,6 +943,19 @@
 	      "Proceed": "آگے بڑھو"
 	    }
 	  },
+	  "uz": {
+	    "translation": {
+	      "DHIS 2 browser cache cleaner": "DHIS2 браузер кешини тозалаш воситаси",
+	      "Session storage": "Захира сессиялари",
+	      "Local storage": "Маҳаллий захира",
+	      "indexedDB": "DB индексирланган",
+	      "Clear": "Аниқ",
+	      "Clearing cache": "Кешни тозалаш",
+	      "Are you sure you want to proceed with the cleaning?": "Ҳақиқатдан ҳам ушбу тозалашни давом этмоқчимисиз?",
+	      "Cancel": "Бекор қилиш",
+	      "Proceed": "Давом этинг"
+	    }
+	  },
 	  "uz_Cyrl": {
 	    "translation": {
 	      "DHIS 2 browser cache cleaner": "DHIS2 браузер кешини тозалаш воситаси",
