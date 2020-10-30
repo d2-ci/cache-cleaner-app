@@ -781,6 +781,19 @@
 	      "Proceed": "ئةنجام دان"
 	    }
 	  },
+	  "cs": {
+	    "translation": {
+	      "DHIS 2 browser cache cleaner": "Čistič mezipaměti prohlížeče DHIS 2",
+	      "Session storage": "Úložiště relace",
+	      "Local storage": "Místní úložiště",
+	      "indexedDB": "indexovanáDB",
+	      "Clear": "Vyčistit",
+	      "Clearing cache": "Vymazání mezipaměti",
+	      "Are you sure you want to proceed with the cleaning?": "Opravdu chcete pokračovat v čištění?",
+	      "Cancel": "Zrušit",
+	      "Proceed": "Pokračovat"
+	    }
+	  },
 	  "da": {
 	    "translation": {
 	      "Clear": "Clear",
