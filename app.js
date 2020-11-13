@@ -913,7 +913,13 @@
 	  },
 	  "ru": {
 	    "translation": {
+	      "DHIS 2 browser cache cleaner": "Приложение очистки кеша браузера DHIS 2",
+	      "Session storage": "Хранилище сессий",
+	      "Local storage": "Местное хранилище",
+	      "indexedDB": "indexDB",
 	      "Clear": "Очистить",
+	      "Clearing cache": "Чистка кэша",
+	      "Are you sure you want to proceed with the cleaning?": "Вы действительно хотите запустить процесс очистки?",
 	      "Cancel": "Отмена",
 	      "Proceed": "Продолжить"
 	    }
@@ -964,7 +970,7 @@
 	      "Session storage": "Захира сессиялари",
 	      "Local storage": "Маҳаллий захира",
 	      "indexedDB": "DB индексирланган",
-	      "Clear": "Аниқ",
+	      "Clear": "Тозалаш",
 	      "Clearing cache": "Кешни тозалаш",
 	      "Are you sure you want to proceed with the cleaning?": "Ҳақиқатдан ҳам ушбу тозалашни давом этмоқчимисиз?",
 	      "Cancel": "Бекор қилиш",
