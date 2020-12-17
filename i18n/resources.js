@@ -264,6 +264,9 @@ const i18nextResources = {
   },
   "zh_CN": {
     "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS 2浏览器缓存清除器",
+      "Session storage": "会话存储",
+      "Local storage": "本地存储",
       "Clear": "清除",
       "Cancel": "取消",
       "Proceed": "处理"
