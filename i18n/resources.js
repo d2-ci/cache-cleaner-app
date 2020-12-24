@@ -242,6 +242,7 @@ const i18nextResources = {
       "DHIS 2 browser cache cleaner": "Trình xóa dữ liệu cục bộ trong DHIS 2",
       "Session storage": "Lưu trữ phiên",
       "Local storage": "Lưu trữ cục bộ",
+      "indexedDB": "indexedDB",
       "Clear": "Xóa",
       "Clearing cache": "Đang xóa...",
       "Are you sure you want to proceed with the cleaning?": "Bạn có chắc chắn muốn thực thi việc xóa dữ liệu cục bộ?",
