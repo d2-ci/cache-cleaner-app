@@ -237,6 +237,15 @@ const i18nextResources = {
       "Proceed": "Давом этинг"
     }
   },
+  "uz_Latn": {
+    "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS2 brauzer keshini tozalash vositasi",
+      "Session storage": "Zaxira sessiyalari",
+      "Local storage": "Mahalliy zaxira",
+      "Clear": "Tozalash",
+      "Cancel": "Bekor qilish"
+    }
+  },
   "vi": {
     "translation": {
       "DHIS 2 browser cache cleaner": "Trình xóa dữ liệu cục bộ trong DHIS 2",
