@@ -262,20 +262,20 @@
     "runtime-main.js": "./static/js/runtime-main.176c8fac.js",
     "runtime-main.js.map": "./static/js/runtime-main.176c8fac.js.map",
     "static/css/130.476fce4f.chunk.css": "./static/css/130.476fce4f.chunk.css",
-    "static/js/130.fe179976.chunk.js": "./static/js/130.fe179976.chunk.js",
-    "static/js/130.fe179976.chunk.js.map": "./static/js/130.fe179976.chunk.js.map",
+    "static/js/130.0d24e556.chunk.js": "./static/js/130.0d24e556.chunk.js",
+    "static/js/130.0d24e556.chunk.js.map": "./static/js/130.0d24e556.chunk.js.map",
     "static/js/131.856c53d6.chunk.js": "./static/js/131.856c53d6.chunk.js",
     "static/js/131.856c53d6.chunk.js.map": "./static/js/131.856c53d6.chunk.js.map",
     "index.html": "./index.html",
     "static/css/130.476fce4f.chunk.css.map": "./static/css/130.476fce4f.chunk.css.map",
     "static/css/app.8aed6058.chunk.css.map": "./static/css/app.8aed6058.chunk.css.map",
-    "static/js/130.fe179976.chunk.js.LICENSE.txt": "./static/js/130.fe179976.chunk.js.LICENSE.txt",
+    "static/js/130.0d24e556.chunk.js.LICENSE.txt": "./static/js/130.0d24e556.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/roboto-latin-900italic.cb5ad999.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.176c8fac.js",
     "static/css/130.476fce4f.chunk.css",
-    "static/js/130.fe179976.chunk.js",
+    "static/js/130.0d24e556.chunk.js",
     "static/js/main.950b82cd.chunk.js"
   ]
 }
