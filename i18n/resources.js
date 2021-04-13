@@ -66,6 +66,7 @@ const i18nextResources = {
       "DHIS 2 browser cache cleaner": "Videur du cache navigateur DHIS2",
       "Session storage": "Stockate de session",
       "Local storage": "Stockage local",
+      "indexedDB": "DBindexée",
       "Clear": "Effacer",
       "Clearing cache": "Vidange du cache",
       "Are you sure you want to proceed with the cleaning?": "Êtes-vous sûr de vouloir procéder au nettoyage ?",
