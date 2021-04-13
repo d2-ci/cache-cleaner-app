@@ -66,6 +66,7 @@ const i18nextResources = {
       "DHIS 2 browser cache cleaner": "Videur du cache navigateur DHIS2",
       "Session storage": "Stockate de session",
       "Local storage": "Stockage local",
+      "indexedDB": "DBindexée",
       "Clear": "Effacer",
       "Clearing cache": "Vidange du cache",
       "Are you sure you want to proceed with the cleaning?": "Êtes-vous sûr de vouloir procéder au nettoyage ?",
@@ -237,11 +238,21 @@ const i18nextResources = {
       "Proceed": "Давом этинг"
     }
   },
+  "uz_Latn": {
+    "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS2 brauzer keshini tozalash vositasi",
+      "Session storage": "Zaxira sessiyalari",
+      "Local storage": "Mahalliy zaxira",
+      "Clear": "Tozalash",
+      "Cancel": "Bekor qilish"
+    }
+  },
   "vi": {
     "translation": {
       "DHIS 2 browser cache cleaner": "Trình xóa dữ liệu cục bộ trong DHIS 2",
       "Session storage": "Lưu trữ phiên",
       "Local storage": "Lưu trữ cục bộ",
+      "indexedDB": "indexedDB",
       "Clear": "Xóa",
       "Clearing cache": "Đang xóa...",
       "Are you sure you want to proceed with the cleaning?": "Bạn có chắc chắn muốn thực thi việc xóa dữ liệu cục bộ?",
@@ -264,6 +275,9 @@ const i18nextResources = {
   },
   "zh_CN": {
     "translation": {
+      "DHIS 2 browser cache cleaner": "DHIS 2浏览器缓存清除器",
+      "Session storage": "会话存储",
+      "Local storage": "本地存储",
       "Clear": "清除",
       "Cancel": "取消",
       "Proceed": "处理"
