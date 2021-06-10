@@ -946,6 +946,7 @@
 	  },
 	  "uk": {
 	    "translation": {
+	      "DHIS 2 browser cache cleaner": "Очищувач кеша браузера DHIS 2",
 	      "Clear": "Очистити",
 	      "Cancel": "Скасувати"
 	    }
