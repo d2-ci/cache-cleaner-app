@@ -950,7 +950,10 @@
 	    "translation": {
 	      "DHIS 2 browser cache cleaner": "Очищувач кеша браузера DHIS 2",
 	      "Clear": "Очистити",
-	      "Cancel": "Скасувати"
+	      "Clearing cache": "Очищення кешу",
+	      "Are you sure you want to proceed with the cleaning?": "Ви впевнені, що хочете продовжити з очищенням кешу?",
+	      "Cancel": "Скасувати",
+	      "Proceed": "Продовжити"
 	    }
 	  },
 	  "ur": {
