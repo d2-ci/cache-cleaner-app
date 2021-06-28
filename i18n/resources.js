@@ -248,7 +248,8 @@ const i18nextResources = {
       "Session storage": "Zaxira sessiyalari",
       "Local storage": "Mahalliy zaxira",
       "Clear": "Tozalash",
-      "Cancel": "Bekor qilish"
+      "Cancel": "Bekor qilish",
+      "Proceed": "Davom eting"
     }
   },
   "vi": {
