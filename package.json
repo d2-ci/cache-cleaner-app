@@ -21,7 +21,7 @@
         "cypress:live": "start-server-and-test 'yarn start:nobrowser' http://localhost:3000 'yarn cypress open --env networkMode=live'"
     },
     "devDependencies": {
-        "@dhis2/cli-app-scripts": "^8.0.0-beta.4",
+        "@dhis2/cli-app-scripts": "^8.0.1",
         "@dhis2/cli-style": "^7.3.0",
         "@dhis2/cli-utils-cypress": "^8.0.1",
         "@dhis2/cypress-commands": "^8.0.1",
@@ -32,10 +32,10 @@
         "start-server-and-test": "^1.12.5"
     },
     "dependencies": {
-        "@dhis2/app-runtime": "3.0.0",
+        "@dhis2/app-runtime": "^3.2.0",
         "@dhis2/d2-i18n": "^1.1.0",
         "@dhis2/prop-types": "^1.6.4",
-        "@dhis2/ui": "^6.12.0",
+        "@dhis2/ui": "^7.2.0",
         "final-form": "^4.19.1"
     }
 }
