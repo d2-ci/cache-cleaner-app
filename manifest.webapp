@@ -4,7 +4,7 @@
   "short_name": "cache-cleaner",
   "name": "Cache Cleaner",
   "description": "",
-  "version": "100.1.3",
+  "version": "100.1.4",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Sun Mar 06 2022 01:41:19 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue Apr 19 2022 01:47:54 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
