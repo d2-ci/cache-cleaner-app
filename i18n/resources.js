@@ -122,6 +122,12 @@ const i18nextResources = {
       "Proceed": "Fortsett"
     }
   },
+  "nl": {
+    "translation": {
+      "Cancel": "Annuleer",
+      "Proceed": "Ga door"
+    }
+  },
   "prs": {
     "translation": {
       "Clear": "پاک کردن",
