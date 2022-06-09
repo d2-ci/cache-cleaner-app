@@ -165,6 +165,11 @@ const i18nextResources = {
       "Cancel": "Cancelar"
     }
   },
+  "ro": {
+    "translation": {
+      "Cancel": "Anulare"
+    }
+  },
   "ru": {
     "translation": {
       "DHIS 2 browser cache cleaner": "Приложение очистки кеша браузера DHIS 2",
