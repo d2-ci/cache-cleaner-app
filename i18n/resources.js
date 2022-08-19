@@ -207,6 +207,9 @@ const i18nextResources = {
   "uk": {
     "translation": {
       "DHIS 2 browser cache cleaner": "Очищувач кеша браузера DHIS 2",
+      "Session storage": "Сховище сеансу",
+      "Local storage": "Локальне сховище",
+      "indexedDB": "indexedDB",
       "Clear": "Очистити",
       "Clearing cache": "Очищення кешу",
       "Are you sure you want to proceed with the cleaning?": "Ви впевнені, що хочете продовжити з очищенням кешу?",
