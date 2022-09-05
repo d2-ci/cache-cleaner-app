@@ -78,7 +78,7 @@ const i18nextResources = {
     "translation": {
       "DHIS 2 browser cache cleaner": "DHIS 2 browser cache cleaner",
       "Session storage": "Session Storage",
-      "Local storage": "Local Storage",
+      "Local storage": "penyimpanan lokal",
       "indexedDB": "indexedDB",
       "Clear": "Hapus",
       "Clearing cache": "Bersihkan cache",
