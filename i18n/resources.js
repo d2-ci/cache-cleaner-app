@@ -61,6 +61,12 @@ const i18nextResources = {
       "Proceed": "Proceder"
     }
   },
+  "es_419": {
+    "translation": {
+      "Clear": "Limpiar",
+      "Cancel": "Cancelar"
+    }
+  },
   "fr": {
     "translation": {
       "DHIS 2 browser cache cleaner": "Videur du cache navigateur DHIS2",
