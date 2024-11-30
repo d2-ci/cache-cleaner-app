@@ -1,0 +1,13 @@
+{
+  "type": "app",
+  "name": "cache-cleaner",
+  "title": "Cache Cleaner",
+  "coreApp": true,
+  "id": "c9e35f66-3204-45a9-90fe-9227a29ab935",
+  "minDHIS2Version": "2.35",
+  "version": "100.1.16",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
