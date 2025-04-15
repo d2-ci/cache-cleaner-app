@@ -39,9 +39,5 @@
         "final-form": "^4.19.1",
         "react": "~16.14.0",
         "react-dom": "~16.14.0"
-    },
-    "resolutions": {
-        "react": "16.14",
-        "react-dom": "16.14"
     }
 }
